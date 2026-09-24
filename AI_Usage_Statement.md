@@ -1,0 +1,2 @@
+AI Usage Statement:
+Generative artificial intelligence (Gemini) was utilized as an assistive productivity tool during the preparation of this project. AI was used to help organize and format tasks in this project, and assist with document drafting. All project requirements, architectural decisions, timelines, and final deliverables were reviewed, verified, and finalized by myself, Marco Garcia, in accordance with course guidelines.
